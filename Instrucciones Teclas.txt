@@ -1,0 +1,12 @@
+Hola estas son las teclas usadas.
+
+Pantalla completa: F
+Salir: esc
+Adelante: Flecha arriba
+Atrás: flecha delante
+Rotar izquierda cámara: flecha izquierda
+Rotar derecha cámara: flecha derecha
+
+NOTAS Y CONSEJOS: Harry se mueve bastante, hice condiciones para que no se salga, pero al principio de empezar a moverse le cuesta un poco "arrancar" por ende, no desespere cuando corra el juego. Habrán unos 6 pasillos, en cada uno un personaje. 
+Espero sea del agrado de quien lo califique, y si hay un BUG perdón de antemano. 
+Att: Alejandro Tejada
